@@ -1,7 +1,7 @@
 # Whatsapp-auto-message-sender
 A bot to send the same messages to every number in a csv file, at a given time
 
-# ADDING PHONE NUMBER TO CSV FILE
+# Adding phone numbers to the csv file
 If you want to open phone_book.csv, open it with a text editor, not with an excel-like app because
 Phone numbers must be text and add excel-like apps may change it to be a number.
 Even though script reads the .csv file columns as texts, format of the number may be changed.
