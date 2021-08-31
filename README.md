@@ -12,7 +12,7 @@ Phone number format is like "+90xxxxxxxxxx" (with plus sign and country code in 
 
 
 # To use this script properly:
-- You must have pyautogui and pandas libraries installed in your computer.
+- You must have pyautogui, pandas libraries and python 3.X installed in your computer.
 
 - You must have logged into whatsapp web in your default web browser (browser doesn´t need to be opened).
 And you shouldn´t do anything, once the script started sending messages.
