@@ -30,7 +30,7 @@ def main():
     # print(df)
 
     while True:
-        current_time = datetime.now().strftime("%H:%M").split(":")  # current time
+        current_time = datetime.now().strftime("%H:%M").split(":")
         current_hour, current_min = int(current_time[0]), int(current_time[1])
         if current_hour == START_HOUR and current_min == START_MIN:
             print("Starting to send messages")
