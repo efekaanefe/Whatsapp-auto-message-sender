@@ -3,7 +3,7 @@ A bot to send the same messages to every number in a csv file, at a given time
 
 # Adding phone numbers to the csv file
 If you want to open phone_book.csv, OPEN IT WITH A TEXT EDITOR, NOT WITH AN EXCEL-LIKE APP because
-Phone numbers must be text and add excel-like apps may change it to be a number.
+Phone numbers must be text and excel-like apps may change it to be a number.
 Even though script reads the .csv file columns as texts, format of the number may be changed.
 For example excel-like app may change the number +123456789123 to in scientific notation 123e+9
 And script reads this as a text like 123e+9, which not the desired format for a phone number :)
